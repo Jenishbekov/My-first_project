@@ -1,0 +1,48 @@
+.hero{
+    background-image: url(../img/png/Rectangle\ \(3\).png);
+    width: 100%;
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 192px 0 0;
+    
+}
+.hero__base{
+    margin: 0 auto;
+    
+}
+.hero__title{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 95px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    width: 734px;
+    transition: color 1.5s linear;
+    cursor: pointer;
+}
+.hero__title:hover{
+    color:rgb(247, 133, 40);
+}
+
+.hero__text{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    transition: color 1.5s linear;
+    cursor: pointer;
+}
+.hero__text:hover{
+    color:rgb(247, 133, 40);
+}
+

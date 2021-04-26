@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import"./components/header.css";
+@import"./components/hero.css";
+@import"./components/numbers.css";
+@import"./components/project.css";
+@import"./components/clever.css";
+@import"./components/build.css";
+@import"./components/only__picture.css";
+@import"./components/answers.css";
+@import"./components/partners.css";
+@import"./components/feedback.css";
+@import"./components/want.css";
+@import"./components/footer.css";
+body{
+  background-color: #F7F7F7;
+}
+h1,h2,h3,h4,h5,h6,p,span,div,a,li,ul,body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+svg{
+  max-width: 100%;
+}
+img{
+  max-width: 100%;
+}
+.col-1 {
+    width: 8.33%;
+  }
+  .col-2 {
+    width: 16.633%;
+  }
+  .col-3 {
+    width: 25%;
+  }
+  .col-4 {
+    width: 33.333%;
+  }
+  .col-5 {
+    width: 41.666%;
+  }
+  .col-6 {
+    width: 50%;
+  }
+  .col-7 {
+    width: 58.333%;
+  }
+  .col-12 {
+    width: 100%;
+  }

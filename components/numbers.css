@@ -1,0 +1,42 @@
+.numbers{
+    margin-top: -150px;
+}
+.numbers__content{
+    background-color:#E5E5E5;
+    justify-content: center;
+}
+.numbers__number{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 72px;
+    line-height: 107px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #F7654A;
+}
+.numbers__texting{
+    margin: 57px 15px;
+    padding:0 60px;
+    cursor: pointer;
+
+}
+.numbers__years{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+}
+.numbers__text{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #999999;
+}

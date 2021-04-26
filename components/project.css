@@ -1,0 +1,48 @@
+.project{
+    background-color: #F7F7F7;
+}
+.projects__title{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #404149;
+    margin: 100px 0 60px; 
+}
+.project__title{
+    font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #404149;
+    margin-top: 15px;
+}
+.project__text{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #999999;
+    margin: 20px 0 150px;
+    width: 350px;
+
+}
+
+.project__images{
+    justify-content: space-between;
+    margin: 0 -15px;
+}
+.project__item{
+    padding: 0 15px;
+}
+.project__item img{
+    min-width: 100%;
+}
+.project__svg{
+    margin-top:45px
+}
